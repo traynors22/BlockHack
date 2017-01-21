@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Big Tool</title>
+<title>Aid Relief</title>
 <!-- makes sure it displays the mobile version on mobile and desktop version on desktop-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

@@ -26,7 +26,7 @@ $('#date').datepicker({});
 
 			<div class="jumbotron">
 				    <div align="center">
-				 		    <span><h1 style="color:white">Big Tool</h1><h4 style="color:white"> - your best bet for cheap tools</h4></span>
+				 		    <span><h1 style="color:white">World Relief</h1><h4 style="color:white"> - Do your bit to help out</h4></span>
 					    <br>
 					    <a href="addTool.php">
 						<button type="button" class="btn btn-lg btn-info">Add a New Tool</button>
@@ -39,18 +39,18 @@ $('#date').datepicker({});
 						
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="img/Tool1.jpg" style="width:200px;height:200px" alt="...">Manual Tools: (1,566) 
+							  <img src="img/school_building.jpeg" style="width:200px;height:200px" alt="...">Build a School: (1,566) 
 							</a>
 							</div>
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="img/Tool2.jpg" style="width:200px;height:200px" alt="...">Power Tools: (567) 
+							  <img src="img/wellproject.jpeg" style="width:200px;height:200px" alt="...">Build a School:(567) 
 							</a>
 							</div>
 
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="img/Tool3.jpg"  style="width:200px;height:200px" alt="...">Cleaning: (683)
+							  <img src="img/earthquake.jpeg"  style="width:200px;height:200px" alt="...">Earthquake Relief: (683)
 							</a>
 							</div>
 
@@ -60,12 +60,12 @@ $('#date').datepicker({});
 						
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://www.task-angels.co.uk/wp-content/uploads/2012/04/clx-gift-guide-gardening-de.jpg" style="width:200px;height:200px" alt="...">Gardening: (788) 
+							  <img src="tsunami.jpg" style="width:200px;height:200px" alt="...">Tsunami Relief: (788) 
 							</a>
 							</div>
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://www.oneill-injurysolicitors.co.uk/wp-content/uploads/bigstock-The-Tractor-Modern-Farm-Equi-44692394.jpg" style="width:200px;height:200px" alt="...">Machinery: (324)
+							  <img src="aidrelief.jpeg" style="width:200px;height:200px" alt="...">Aid Relief: (324)
 							</a>
 							</div>
 

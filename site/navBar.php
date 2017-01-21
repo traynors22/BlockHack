@@ -8,7 +8,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		      </button>
-		       <a href="index.php"><img src="img/hammer_icon.png"  alt="Mountain View" style="width:50px;height:50px" ></a>
+		       <a href="index.php"><img src="img/briefIcon2.png"  alt="Mountain View" style="width:50px;height:50px" ></a>
 		    </div>
 
 		    <!-- Collect the nav links, forms, and other content for toggling -->
@@ -21,17 +21,14 @@
 		      <input type="text" class="form-control" id="searchtool" aria-label="..." placeholder="Search">
 
 		      <div class="input-group-btn">
-		        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="alltools" aria-expanded="false">All Tools <span class="caret"></span></button>
+		        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="alltools" aria-expanded="false">Projects <span class="caret"></span></button>
 		        <ul class="dropdown-menu drop-tool dropdown-menu-right" role="menu">
-			          <li class="test1"><a href="#">Manual Tools</a></li>
-			          <li class="test1"><a href="#">Power Tools</a></li>
-			          <li class="test1"><a href="#">Cleaning</a></li>
-			          <li class="test1"><a href="#">Gardening</a></li>
-			          <li class="test1"><a href="#">Machinery</a></li>
-			          <li class="test1"><a href="#">Safety & Ventilation</a></li>
-			          <li class="test1"><a href="#">Decoration</a></li>
-			          <li class="test1"><a href="#">Plumbing</a></li>
-			          <li class="test1"><a href="#">Power & Lighting</a></li>
+			          <li class="test1"><a href="#">Build a Well</a></li>
+			          <li class="test1"><a href="#">Build a School</a></li>
+			          <li class="test1"><a href="#">Earthquake Relief</a></li>
+			          <li class="test1"><a href="#">Tsunami Relief</a></li>
+			          <li class="test1"><a href="#">Teaching</a></li>
+			          <li class="test1"><a href="#">Learn to Code</a></li>
 		
 		        </ul>
 			</div>
@@ -41,18 +38,11 @@
 		      <!-- /btn-group -->
 		       <div class="form-group">
 		           <div class="input-group">
-		       <input type="text" class="form-control" aria-label="..." placeholder="London">
+		       <input type="text" class="form-control" aria-label="..." placeholder="Location">
 
 			      <div class="input-group-btn">
-			        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" id="within" aria-expanded="false">Within <span class="caret"></span></button>
-			        <ul class="dropdown-menu dropdown-menu-right" role="menu">
-			          <li class="test"><a href="#">+ 2 miles</a></li>
-			          <li class="test"><a href="#">+ 4 miles</a></li>
-			          <li class="test"><a href="#">+ 6 miles</a></li>
-			          <li class="test"><a href="#">+ 8 miles</a></li>
-			          <li class="test"><a href="#">+ 10 miles</a></li>
-			          <li class="test"><a href="#">+ 12 miles</a></li>
-			        </ul>
+			        
+			       
 		    	</div>
 		    	</div>
 		    	</div>
@@ -63,7 +53,7 @@
 		      </ul>
 		      <div class="admin_div">
 		      <ul class="nav navbar-nav navbar-right">
-		      	<li><a class = "navbar-button" href="addTool.php">Add Tool</a></li>
+		      	<li><a class = "navbar-button" href="addTool.php">Add A Project</a></li>
 		      	<li><a href="mytool.php">MyPage</a></li>
 		      	<li><a href="notification.php">Notifications <div id="not"><span class="glyphicon glyphicon-exclamation-sign"></span></div></a></li>
 		      	<li><a href="faq.php">FAQ</a></li>

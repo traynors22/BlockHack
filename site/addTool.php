@@ -13,12 +13,17 @@ include("navBar.php");
     
             <!-- Name input-->
             <div class="form-group ">
-              <label class="col-md-3 control-label" for="name">Tool Name</label>
+              <label class="col-md-3 control-label" for="name">Project Name</label>
               <div class="col-md-9">
                 <input id="name" name="name" type="text" placeholder="Your name" class="form-control">
               </div>
             </div>
-    
+     <div class="form-group ">
+              <label class="col-md-3 control-label" for="Cost">Cost of Project</label>
+              <div class="col-md-9">
+                <input id="name" name="name" type="text" placeholder="Cost" class="form-control">
+              </div>
+            </div>
     
             <!-- Message body -->
             <div class="form-group">
@@ -32,24 +37,20 @@ include("navBar.php");
               <label class="col-md-3 control-label" for="message">Category</label>
               <div class="col-md-9">
                 <select title="Select tool category" name="category">
-						<option value="Manual Tools" selected>
-						Manual Tools</option>
-						<option value="Power Tools">
-						Power Tools</option>
-						<option value="Machinery">
-						Machinery</option>
-						<option value="Plumbing">
-						Plumbing</option>
-						<option value="Cleaning">
-						Cleaning</option>
-						<option value="Gardening">
-						Gardening</option>
-						<option value="Decoration">
-						Decoration</option>
-						<option value="Power and Lighting">
-						Power and Lighting</option>
-						<option value="Safety and Ventilation">
-						Safety and Ventilation</option>
+						<option value="Build a School" selected>
+						Build a School</option>
+						<option value="Build a Well">
+						Build a Well</option>
+						<option value="Teaching">
+						Teaching</option>
+						<option value="Aid Relief">
+						Aid Relief</option>
+						<option value="Coding in schools">
+						Coding in schools</option>
+						<option value="Earthquake relief">
+						Earthquake relief</option>
+						<option value="Elderly care">
+						Elderly care</option>
 					</select>
               </div>
             </div>

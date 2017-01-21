@@ -71,7 +71,7 @@ $('#date').datepicker({});
 
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://images.google.fr/imgres?imgurl=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1423287%2Fimages%2Fo-TEACHER-FOR-AMERICA-facebook.jpg&imgrefurl=http%3A%2F%2Fwww.huffingtonpost.com%2Fsandra-korn%2Fwhy-i-said-no-to-teach-for-america_b_4151764.html&h=1000&w=2000&tbnid=HDCAhRD1vKYx5M%3A&vet=1&docid=eWIIEh__vAnThM&ei=wOeDWIziJ8XCgAbsloCABg&tbm=isch&client=firefox-b&iact=rc&uact=3&dur=470&page=0&start=0&ndsp=15&ved=0ahUKEwiMwo24q9TRAhVFIcAKHWwLAGAQMwgxKAAwAA&noj=1&bih=713&biw=1440"  style="width:200px;height:200px" alt="...">Teaching: (126)
+							  <img src="http://www.star.ucl.ac.uk/~tgreve/images/teaching.jpg"  style="width:200px;height:200px" alt="...">Teaching: (126)
 							</a>
 							</div>
 
@@ -80,7 +80,7 @@ $('#date').datepicker({});
 						
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://img.thrfun.com/img/004/386/paint_roller_s.jpg" style="width:200px;height:200px" alt="...">Decoration: (822) 
+							  <img src="http://edge.alluremedia.com.au/m/l/2015/06/CodingSnippet.jpg" style="width:200px;height:200px" alt="...">Coding in Schools: (822) 
 							</a>
 							</div>
 							<div class="col-xs-6 col-md-3">
@@ -91,7 +91,7 @@ $('#date').datepicker({});
 
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://www.mteevanhire.co.uk/wp-content/uploads/2012/01/site_lighting-thumb.jpg"  style="width:200px;height:200px" alt="...">Power & Lighting: (92)
+							  <img src="http://i.dailymail.co.uk/i/pix/2012/08/18/article-2190111-0B2F8F93000005DC-208_468x386.jpg"  style="width:200px;height:200px" alt="...">Elderly Aid: (92)
 							</a>
 							</div>
 

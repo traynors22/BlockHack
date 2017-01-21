@@ -9,7 +9,7 @@ include("navBar.php");
         <div class="well well-sm userbk">
           <form class="form-horizontal " action="" method="post">
       
-            <legend class="text-center">Add Tool</legend>
+            <legend class="text-center">Add Projects</legend>
     
             <!-- Name input-->
             <div class="form-group ">
@@ -71,7 +71,7 @@ include("navBar.php");
             <!-- Form actions -->
             <div class="form-group">
               <div class="col-md-12 text-right">
-        <a href="addToolConfirmation.php" type="submit" class="btn btn-primary">Sumbit Tool</a>
+        <a href="addToolConfirmation.php" type="submit" class="btn btn-primary">Add Project</a>
               </div>
             </div>
           

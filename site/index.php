@@ -29,7 +29,7 @@ $('#date').datepicker({});
 				 		    <span><h1 style="color:white">World Relief</h1><h4 style="color:white"> - Do your bit to help out</h4></span>
 					    <br>
 					    <a href="addTool.php">
-						<button type="button" class="btn btn-lg btn-info">Add a New Tool</button>
+						<button type="button" class="btn btn-lg btn-info">Add a new Project</button>
 						</a>
 					</div>
 				</div>
@@ -71,7 +71,7 @@ $('#date').datepicker({});
 
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://thetomorrowcompany.com/wp-content/uploads/2011/09/ventilation1.jpg"  style="width:200px;height:200px" alt="...">Safety & Ventilation: (126)
+							  <img src="http://images.google.fr/imgres?imgurl=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1423287%2Fimages%2Fo-TEACHER-FOR-AMERICA-facebook.jpg&imgrefurl=http%3A%2F%2Fwww.huffingtonpost.com%2Fsandra-korn%2Fwhy-i-said-no-to-teach-for-america_b_4151764.html&h=1000&w=2000&tbnid=HDCAhRD1vKYx5M%3A&vet=1&docid=eWIIEh__vAnThM&ei=wOeDWIziJ8XCgAbsloCABg&tbm=isch&client=firefox-b&iact=rc&uact=3&dur=470&page=0&start=0&ndsp=15&ved=0ahUKEwiMwo24q9TRAhVFIcAKHWwLAGAQMwgxKAAwAA&noj=1&bih=713&biw=1440"  style="width:200px;height:200px" alt="...">Teaching: (126)
 							</a>
 							</div>
 

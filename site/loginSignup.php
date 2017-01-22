@@ -7,7 +7,7 @@
 		      <div class="modal-content">
 		          <div class="modal-header">
 		              <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-		              <h4 class="modal-title" id="myModalLabel">Login to BigTool.com</h4>
+		              <h4 class="modal-title" id="myModalLabel">Login to WorldRelief.com</h4>
 		          </div>
 		          <div class="modal-body">
 		              <div class="row">
@@ -39,10 +39,10 @@
 		                  <div class="col-xs-6">
 		                      <p class="lead">Register now for <span class="text-success">FREE</span></p>
 		                      <ul class="list-unstyled" style="line-height: 2">
-		                          <li><span class="fa fa-check text-success"></span> - Rent your tools for cash</li>
-		                          <li><span class="fa fa-check text-success"></span> - Rent tools from others</li>
-		                          <li><span class="fa fa-check text-success"></span> - Earn money</li>
-		                          <li><span class="fa fa-check text-success"></span> - Save money</li>
+		                          <li><span class="fa fa-check text-success"></span> - Create a project</li>
+		                          <li><span class="fa fa-check text-success"></span> - Contribute to an existing project</li>
+		                          <li><span class="fa fa-check text-success"></span> - Make a differnce</li>
+		                          <li><span class="fa fa-check text-success"></span> - Monitor you transaction</li>
 		                          <li><a href="/read-more/"><u>Read more</u></a></li>
 		                      </ul>
 		                      <p><a href="register.php" class="btn btn-info btn-block">Yes please, register now!</a></p>

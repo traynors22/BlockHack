@@ -58,7 +58,7 @@
       <div class="col-md-6">
         <h3 class="dark-grey">Terms and Conditions</h3>
         <p>
-          By clicking on "Register" you agree to BigTool's Terms and Conditions
+          By clicking on "Register" you agree to World Relief Terms and Conditions
         </p>
         <p>
           While rare, prices are subject to change based on exchange rate fluctuations - 

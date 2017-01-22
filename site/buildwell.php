@@ -17,17 +17,16 @@ include("navBar.php");
 <div class="container">
 	<div class="col-md-6 col-md-offset-3">	
 		<div class="panel panel-default">
-			<div class="panel-heading"><h1>Wooden Hammer</h1></div>
+			<div class="panel-heading"><h1>Papua New Guinea Well Building</h1></div>
 	    	<div class="panel-body">
-				<img src="img/Hammer2.jpg">
+				<img src="">
 				<h5>Average User Rating 4/5</h5>
                 <p>       <strong>Category:</strong> Manual tool</br>
-                          <strong>Tool: </strong>Hammer</br>
                           <strong>Description:</strong> 
                           Carbon steel head, Wooden grip.</br>
                           <strong>Condition: </strong>Used</br>
-                          <strong>Price:</strong> £2 per day</p>
-                          <h5>Owner: J Smith</h5>
+                          <strong>Total Cost:</strong> £5000 </p>
+                          <h5>Project Owner: J Smith</h5>
                           <button  type="button" class="btn btn-info" data-toggle = "modal" data-target = "#messageModal">Message Them</button>
                           <br><br>
 	     	   From: <span class="glyphicon glyphicon-calendar" aria-hidden="true"><input type="text" size="15" class="datepicker"></span></br> To: 
@@ -37,7 +36,7 @@ include("navBar.php");
 	     	    <label class="age_box"><input type="checkbox" class="checkbox" />For delivery</label>
 	     	    <label class="age_box"><input type="checkbox" class="checkbox" />For collection</label> 
 	     	    </div>
-	     	    <a href="mybasket.php"><button type="button" class="btn btn-lg btn-primary">Add Tool to Basket</button></a>
+	     	    <a href="mybasket.php"><button type="button" class="btn btn-lg btn-primary">Contribute to Project</button></a>
 			</div>
 		</div>
 		<div class="panel panel-default">

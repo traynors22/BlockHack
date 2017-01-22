@@ -44,7 +44,7 @@ $('#date').datepicker({});
 							</div>
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="img/wellproject.jpeg" style="width:200px;height:200px" alt="...">Build a School:(567) 
+							  <img src="img/wellproject.jpeg" style="width:200px;height:200px" alt="...">Build a Well:(567) 
 							</a>
 							</div>
 
@@ -60,12 +60,12 @@ $('#date').datepicker({});
 						
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="tsunami.jpg" style="width:200px;height:200px" alt="...">Tsunami Relief: (788) 
+							  <img src="http://awish.net/Asia/images/Tsunami_India9.jpg" style="width:200px;height:200px" alt="...">Tsunami Relief: (788) 
 							</a>
 							</div>
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="aidrelief.jpeg" style="width:200px;height:200px" alt="...">Aid Relief: (324)
+							  <img src="https://timedotcom.files.wordpress.com/2015/04/nepal-earthquake-rescue-aid-1.jpg?quality=85&w=838" style="width:200px;height:200px" alt="...">Aid Relief: (324)
 							</a>
 							</div>
 

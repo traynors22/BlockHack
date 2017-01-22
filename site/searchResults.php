@@ -9,37 +9,35 @@ include("navBar.php")
     <a href="#" class="list-group-item">
       <div class="row">
         <div class="col-md-5">
-          <h4 class="list-group-item-heading">High Quality Hammer</h4>
-          <h5>Owner: Sarah D</h5>
+          <h4 class="list-group-item-heading">Papua New Guinea School Building</h4>
+          <h5>Project Owner: Sarah David</h5>
           <h5>Average User Rating 4.5/5</h5>
-          <p class="list-group-item-text">This is a high quality hammer, only a year old. Excellent for...</p>
-          <p class="list-group-item-text">Distance: <strong>1 miles</strong></p>
-          <p class="list-group-item-text">Price: <strong>£5/day</strong></p>
+          <p class="list-group-item-text">........................</p>
+          <p class="list-group-item-text">Location: <strong>1 miles</strong></p>
+          <p class="list-group-item-text">Cost: <strong>£5000</strong></p>
         </div>
         <div class="col-md-2">
-          <img style="width=10px" src="img/Hammer1.jpg">
+          <img style="width=10px" src="img/school_building.jpg">
         </div>
       </div>
       <br>
       <h4><button type="button" class="btn btn-lg btn-primary">View</button></h4>
     </a>
-    <a href="woodenHammer.php" class="list-group-item">
+    <a href="buildwell.php" class="list-group-item">
       <div class="row">
         <div class="col-md-5">
-          <h4 class="list-group-item-heading">Wooden Hammer</h4>
-          <h5>Owner: J Smith</h5>
+          <h4 class="list-group-item-heading">Papua New Guinea Well Building</h4>
+          <h5>Project Owner: J Smith</h5>
           <h5>Average User Rating 4/5</h5>
-          <p><strong>Title: </strong>Wooden hammer<br>
-            <strong>Category:</strong> Manual tool<br>
-            <strong>Tool: </strong>Hammer<br>
+          <p><strong>Project Title: </strong>Bringing water to Mount Hagen<br>
+            <strong>Category:</strong> Well Project<br>
             <strong>Description:</strong> 
-            Carbon steel head, Wooden grip.<br>
-            <strong>Condition: </strong>Used<br>
-            <strong>Distance:</strong> 2 Miles<br>
-            <strong>Price:</strong> £2 per day</p>
+            C...............................<br>
+            <strong>Location:</strong> Mount Hagen, Papua New Guinea<br>
+            <strong>Cost:</strong> £5000 </p>
         </div>
         <div class="col-md-2">
-          <img src="img/Hammer2.jpg">
+          <img src="">
         </div>
       </div>
       <br>
@@ -48,32 +46,15 @@ include("navBar.php")
     <a href="#" class="list-group-item">
       <div class="row">
         <div class="col-md-5">
-          <h4 class="list-group-item-heading">Classic Hammer</h4>
-          <h5>Owner: Rachel P</h5>
+          <h4 class="list-group-item-heading">Papua New Guinea Teaching</h4>
+          <h5>Project Owner: Rachel Smith</h5>
           <h5>Average User Rating 4/5</h5>
           <p class="list-group-item-text">The only hammer I've ever owned. It has never let me down...</p>
-          <p class="list-group-item-text">Distance: <strong>5 miles</strong></p>
-          <p class="list-group-item-text">Price: <strong>£2/day</strong></p>
+          <p class="list-group-item-text">Location: <strong>5 miles</strong></p>
+          <p class="list-group-item-text">Cost: <strong>£2000/Year</strong></p>
         </div>
         <div class="col-md-2">
-          <img src="img/Hammer3.jpg">
-        </div>
-      </div>
-      <br>
-      <h4><button type="button" class="btn btn-lg btn-primary">View</button></h4>
-    </a>
-    <a href="#" class="list-group-item">
-      <div class="row">
-        <div class="col-md-5">
-          <h4 class="list-group-item-heading">Nice Hammer</h4>
-          <h5>Owner: Tom T</h5>
-          <h5>Average User Rating 3.5/5</h5>
-          <p class="list-group-item-text">Does the job. It hammers stuff.</p>
-          <p class="list-group-item-text">Distance: <strong>2 miles</strong></p>
-          <p class="list-group-item-text">Price: <strong>£1/day</strong></p>
-        </div>
-        <div class="col-md-2">
-          <img src="img/Hammer4.jpg">
+          <img src="">
         </div>
       </div>
       <br>

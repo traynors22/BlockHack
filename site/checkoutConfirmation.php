@@ -8,7 +8,7 @@
 			<h1>Order Placed!</h1>
 			<div class="panel panel-default">
 		    	<div class="panel-body">
-			    	<h4>Thank you for placing your order! You will recieve a confirmation email soon.</h4>
+			    	<h4>Thank you for placing your donation! You will recieve a confirmation email soon to track the progres of your donation.</h4>
 		    	</div>
 		    </div>
 		</div>

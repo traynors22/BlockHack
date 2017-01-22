@@ -51,7 +51,7 @@
 		        		   
 		      </ul>
 		      <ul class="nav navbar-nav navbar-right">
-		      	<li><a class = "navbar-button" href="addTool.php">Add Tool</a></li>
+		      	<li><a class = "navbar-button" href="addTool.php">Add Project</a></li>
 		      	<li><a href="faq.php">FAQ</a></li>
 		        <li><a href="loginSignup.php">Log In</a></li>
 		      </ul>

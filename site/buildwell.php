@@ -21,21 +21,20 @@ include("navBar.php");
 	    	<div class="panel-body">
 				<img src="">
 				<h5>Average User Rating 4/5</h5>
-                <p>       <strong>Category:</strong> Manual tool</br>
+                <p>       <strong>Category:</strong> New Building</br>
                           <strong>Description:</strong> 
-                          Carbon steel head, Wooden grip.</br>
-                          <strong>Condition: </strong>Used</br>
-                          <strong>Total Cost:</strong> £5000 </p>
+                          New Well to provide people to the towns people</br>
+                          <strong>Budget Target:</strong> £5000 </p>
                           <h5>Project Owner: J Smith</h5>
                           <button  type="button" class="btn btn-info" data-toggle = "modal" data-target = "#messageModal">Message Them</button>
                           <br><br>
-	     	   From: <span class="glyphicon glyphicon-calendar" aria-hidden="true"><input type="text" size="15" class="datepicker"></span></br> To: 
-	     	    <span class="glyphicon glyphicon-calendar" aria-hidden="true"><input type="text" size="15" class="datepicker"></span>
-	     	    <br><br>
-	     	    <div class="row">
-	     	    <label class="age_box"><input type="checkbox" class="checkbox" />For delivery</label>
-	     	    <label class="age_box"><input type="checkbox" class="checkbox" />For collection</label> 
-	     	    </div>
+
+	     	  <div class="form-group">
+		           <div class="input-group">
+		       <input type="text" class="form-control" aria-label="..." placeholder="Amount">
+			      <div class="input-group-btn">
+		    
+
 	     	    <a href="mybasket.php"><button type="button" class="btn btn-lg btn-primary">Contribute to Project</button></a>
 			</div>
 		</div>
@@ -43,21 +42,21 @@ include("navBar.php");
 			<div class="panel-heading"><h3>Reviews</h3></div>
 				<div class="panel-body">
 					<div class="panel panel-default">
-						<div class="panel-heading"><h4>Does the job</h4><h5>Rating: 4/5 - User: Dave D</h5></div>
+						<div class="panel-heading"><h4>Really well run project</h4><h5>Rating: 4/5 - User: Dave D</h5></div>
 						<div class="panel-body">
-						<p>This big hammer does the job. Good condition, feels sturdy.</p>
+						<p>This is for a great cause.</p>
 						</div>
 					</div>
 					<div class="panel panel-default">
-						<div class="panel-heading"><h4>Good for hammering</h4><h5>Rating: 5/5 - User: Hannah R</h5></div>
+						<div class="panel-heading"><h4>Good project</h4><h5>Rating: 5/5 - User: Hannah R</h5></div>
 						<div class="panel-body">
-						<p>Needed to hammer some large nails and this hammer helped greatly. Would recommend.</p>
+						<p>This project is doing a great deal to help</p>
 						</div>
 					</div>
 					<div class="panel panel-default">
-						<div class="panel-heading"><h4>Mildly satisfied</h4><h5>Rating: 3/5 - User: Pete A</h5></div>
+						<div class="panel-heading"><h4>very satisfied</h4><h5>Rating: 5/5 - User: Pete A</h5></div>
 						<div class="panel-body">
-						<p>This is a big hammer, but is it too big? A little heavy to hold.</p>
+						<p>This website is really good at providing help to all</p>
 						</div>
 					</div>
 				</div>

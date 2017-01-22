@@ -9,14 +9,14 @@ include("navBar.php");
 			<div id = "my_page" class = " panel panel-default">
 				<div class="panel-heading">
 					<div class="panel-title">
-						My Page
+						Your Account
 					</div>
 				</div>
 				<div class="panel-body" >
 
 					<ul style="padding-top:20px" class="nav nav-tabs">
 
-						<li class="active"><a data-toggle="tab" href="#my_tool">CreateAdmin</a></li>
+						<li class="active"><a data-toggle="tab" href="#my_tool">Projects Funded</a></li>
 
 						<li><a data-toggle="tab" href="#my_profile">MyProfile</a></li>
 
@@ -26,7 +26,7 @@ include("navBar.php");
 					<div class="tab-content">
 						<div id="my_tool" class="tab-pane fade in active">
 							<div style = " padding-top:20px">
-								<div class="page-header"><h3>New Admin</h3></div>
+								<div class="page-header"><h3>Projects</h3></div>
 
 								<div   class=" panel panel-default" >
 									<div style = " padding-top:10px"  class="panel-body" >

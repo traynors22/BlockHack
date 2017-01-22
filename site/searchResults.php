@@ -12,12 +12,12 @@ include("navBar.php")
           <h4 class="list-group-item-heading">Papua New Guinea School Building</h4>
           <h5>Project Owner: Sarah David</h5>
           <h5>Average User Rating 4.5/5</h5>
-          <p class="list-group-item-text">........................</p>
+          <p class="list-group-item-text">Funding to cover cost of school</p>
           <p class="list-group-item-text">Location: <strong>1 miles</strong></p>
           <p class="list-group-item-text">Cost: <strong>£5000</strong></p>
         </div>
         <div class="col-md-2">
-          <img style="width=10px" src="img/school_building.jpg">
+           <img src="img/school_building.jpeg" style="width:250px;height:250px">
         </div>
       </div>
       <br>
@@ -26,18 +26,18 @@ include("navBar.php")
     <a href="buildwell.php" class="list-group-item">
       <div class="row">
         <div class="col-md-5">
-          <h4 class="list-group-item-heading">Papua New Guinea Well Building</h4>
+          <h4 class="list-group-item-heading">Papua New Guinea - Well Building</h4>
           <h5>Project Owner: J Smith</h5>
           <h5>Average User Rating 4/5</h5>
           <p><strong>Project Title: </strong>Bringing water to Mount Hagen<br>
             <strong>Category:</strong> Well Project<br>
             <strong>Description:</strong> 
-            C...............................<br>
+            Funding to cover cost of a new Well<br>
             <strong>Location:</strong> Mount Hagen, Papua New Guinea<br>
-            <strong>Cost:</strong> £5000 </p>
+            <strong>Budget:</strong> £5000 </p>
         </div>
         <div class="col-md-2">
-          <img src="">
+          <img src="img/wellproject.jpeg" style="width:250px;height:250px">
         </div>
       </div>
       <br>
@@ -49,12 +49,12 @@ include("navBar.php")
           <h4 class="list-group-item-heading">Papua New Guinea Teaching</h4>
           <h5>Project Owner: Rachel Smith</h5>
           <h5>Average User Rating 4/5</h5>
-          <p class="list-group-item-text">The only hammer I've ever owned. It has never let me down...</p>
+          <p class="list-group-item-text">Funding to cover cost of teaching...</p>
           <p class="list-group-item-text">Location: <strong>5 miles</strong></p>
-          <p class="list-group-item-text">Cost: <strong>£2000/Year</strong></p>
+          <p class="list-group-item-text">Budget: <strong>£2000/Year</strong></p>
         </div>
         <div class="col-md-2">
-          <img src="">
+          <img src="img/teaching1.jpeg" style="width:250px;height:250px">
         </div>
       </div>
       <br>

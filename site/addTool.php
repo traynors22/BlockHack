@@ -15,13 +15,13 @@ include("navBar.php");
             <div class="form-group ">
               <label class="col-md-3 control-label" for="name">Project Name</label>
               <div class="col-md-9">
-                <input id="name" name="name" type="text" placeholder="Your name" class="form-control">
+                <input id="name" name="name" type="text" placeholder="project name" class="form-control">
               </div>
             </div>
      <div class="form-group ">
-              <label class="col-md-3 control-label" for="Cost">Cost of Project</label>
+              <label class="col-md-3 control-label" for="Cost">Project Budget</label>
               <div class="col-md-9">
-                <input id="name" name="name" type="text" placeholder="Cost" class="form-control">
+                <input id="name" name="name" type="text" placeholder="amount" class="form-control">
               </div>
             </div>
     
@@ -29,7 +29,7 @@ include("navBar.php");
             <div class="form-group">
               <label class="col-md-3 control-label" for="message">Description</label>
               <div class="col-md-9">
-                <textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5"></textarea>
+                <textarea class="form-control" id="message" name="message" placeholder="Please enter your description here here..." rows="5"></textarea>
               </div>
             </div>
 

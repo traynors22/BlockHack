@@ -26,7 +26,7 @@ $('#date').datepicker({});
 
 			<div class="jumbotron">
 				    <div align="center">
-				 		    <span><h1 style="color:white">World Relief</h1><h4 style="color:white"> - Do your bit to help out</h4></span>
+				 		    <span><h1 style="color:white">Project Timber</h1><h4 style="color:white"> - Do your bit to help out</h4></span>
 					    <br>
 					    <a href="addTool.php">
 						<button type="button" class="btn btn-lg btn-info">Add a new Project</button>
@@ -44,7 +44,7 @@ $('#date').datepicker({});
 							</div>
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="img/wellproject.jpeg" style="width:200px;height:200px" alt="...">Build a Well:(567) 
+							  <img src="img/wellproject.jpeg" style="width:200px;height:200px" alt="...">Build a School:(567) 
 							</a>
 							</div>
 
@@ -56,22 +56,22 @@ $('#date').datepicker({});
 
 						</div>
 							
-												<div class="row row2" align="center">
+						<div class="row row2" align="center">
 						
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://awish.net/Asia/images/Tsunami_India9.jpg" style="width:200px;height:200px" alt="...">Tsunami Relief: (788) 
+							  <img src="img/tsunami.jpeg" style="width:200px;height:200px" alt="...">Tsunami Relief: (788) 
 							</a>
 							</div>
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="https://timedotcom.files.wordpress.com/2015/04/nepal-earthquake-rescue-aid-1.jpg?quality=85&w=838" style="width:200px;height:200px" alt="...">Aid Relief: (324)
+							  <img src="img/aidrelief.jpeg" style="width:200px;height:200px" alt="...">Aid Relief: (324)
 							</a>
 							</div>
 
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://www.star.ucl.ac.uk/~tgreve/images/teaching.jpg"  style="width:200px;height:200px" alt="...">Teaching: (126)
+							  <img src="img/teaching1.jpeg"  style="width:200px;height:200px" alt="...">Teaching: (126)
 							</a>
 							</div>
 
@@ -80,18 +80,18 @@ $('#date').datepicker({});
 						
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://edge.alluremedia.com.au/m/l/2015/06/CodingSnippet.jpg" style="width:200px;height:200px" alt="...">Coding in Schools: (822) 
+							  <img src="img/CodingSnippet.jpeg" style="width:200px;height:200px" alt="...">Coding in Schools: (822) 
 							</a>
 							</div>
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://acpfl.co/wp-content/uploads/2014/11/Plumbers.png" style="width:200px;height:200px" alt="...">Plumbing: (632)
+							  <img src="img/Plumbers.png" style="width:200px;height:200px" alt="...">Plumbing: (632)
 							</a>
 							</div>
 
 							<div class="col-xs-6 col-md-3">
 							<a href="#" class="thumbnail">
-							  <img src="http://i.dailymail.co.uk/i/pix/2012/08/18/article-2190111-0B2F8F93000005DC-208_468x386.jpg"  style="width:200px;height:200px" alt="...">Elderly Aid: (92)
+							  <img src="img/old.jpeg"  style="width:200px;height:200px" alt="...">Elderly Aid: (92)
 							</a>
 							</div>
 
